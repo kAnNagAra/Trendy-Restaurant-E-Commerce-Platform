@@ -11,8 +11,6 @@ This is a modern e-commerce platform for a trendy restaurant, enabling users to 
 - [Usage](#usage)
 - [Database Setup](#database-setup)
 - [Security Measures](#security-measures)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Features
 
