@@ -34,16 +34,16 @@ This is a modern e-commerce platform for a trendy restaurant, enabling users to 
 ## Setup and Installation
 
 1. Clone the repository:https://github.com/kAnNagAra/Trendy-Restaurant-E-Commerce-Platform
-2. Navigate to the project directory: `cd trendy-restaurant-ecommerce`
-3. Set up a local development server (e.g., using XAMPP, WAMP, or a similar tool).
-4. Open the project in your preferred code editor.
-5. Configure database settings in the backend PHP files.
+2. Set up a local development server (e.g., using XAMPP, WAMP, or a similar tool).
+3. Open the project in your preferred code editor.
+4. Configure database settings in the backend PHP files.
 
 ## Usage
 
 1. Start your local development server.
 2. Open the project in a web browser.
-3. Explore the platform, add items to the cart, next click cart icon for go to your cart, if you want to add /remove items you can do it  within your cart, next you click place order button,you must regisrer and login in our restaurant website, then you can proceed through the checkout process.
+3. Explore the platform, add items to the cart, next click cart icon for go to your cart, if you want to add /remove items you can do it  within your cart, next you click place order button,you must regisrer and 
+   login in our restaurant website, then you can proceed through the checkout process.
 
 ## Database Setup
 
